@@ -1,0 +1,28 @@
+﻿  BVH.cpp
+C:\Users\Jason Yang\source\repos\Project1\Project1\BVH.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Jason Yang\source\repos\Project1\Project1\BVH.cpp(217,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Jason Yang\source\repos\Project1\Project1\BVH.cpp(256,20): warning C4018: “<”: 有符号/无符号不匹配
+  Camera.cpp
+  Lambert.cpp
+  Scene.cpp
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(50,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(50,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(50,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(51,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(51,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(87,9): warning C4778: “printf”: 格式字符串“%\n”未终止
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(91,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(91,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(91,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(92,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(92,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(92,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(93,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(93,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\Jason Yang\source\repos\Project1\Project1\Scene.cpp(93,9): message : 请考虑在格式字符串中使用“%I64d”
+  TriangleMesh.cpp
+  assignment1.cpp
+  main.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\Jason Yang\source\repos\Project1\Debug\Project1.exe
